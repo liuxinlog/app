@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Microsoft Yahei";
+}
+@font-face {
+  font-family: 'CLOCK-FONT';   /*字体名称*/
+  src: url('./assets/font/Quartz Regular.ttf');       /*字体源文件*/
+}
+.ant-layout-content {
+  /*height: alac(100% - 64px);*/
+  height: 100%;
+  padding: 5px;
+}
+a, a:active, a:visited, a:focus {
+  text-decoration: none;
+}
